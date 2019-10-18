@@ -51,18 +51,18 @@ const Index = () => {
                                     </div>
                                     <div className="message-body">
                                         <div className='columns'>
-                                            <div className='column is-4' style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-around' }}>
+                                            <div className='column is-5' style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-around' }}>
                                                 <figure>
                                                     <img src='/images/skrill-b.png' alt='neteller BRONZE pro vip upgrade' style={{ maxHeight: '150px' }}/>
                                                 </figure>
-                                                <a href='http://wlskrill.adsrv.eacdn.com/C.ashx?btag=a_75418b_3265c_&affid=37901&siteid=75418&adid=3265&c=&aid=521' className='button is-medium is-danger'><span>Get BRONZE VIP <i className='fa fa-check-circle' style={{ color: 'white' }}></i></span>
+                                                <a href='http://wlskrill.adsrv.eacdn.com/C.ashx?btag=a_75418b_3265c_&affid=37901&siteid=75418&adid=3265&c=&aid=521' className='button is-medium is-danger'><span>BECOME SKRILL VIP <i className='fa fa-check-circle' style={{ color: 'white' }}></i></span>
                                                 </a>
                                                 <br/>
                                                 <br/>
                                                 <p className='content is-small'>Please note that VIP upgrade to BRONZE is for new Skrill customers who register via the button above</p>
                                             </div> 
                                             <div className='column' >
-                                                <h3>Exclusive RichPlayers / NETELLER Partnership Deal</h3>
+                                                <h3>Exclusive RichPlayers / Skrill Partnership Deal</h3>
                                                 <p><span><i className='fa fa-check-circle'></i> Fast Track verification - No deposit required!</span></p>
                                                 <p><span><i className='fa fa-check-circle'></i> FREE Instant BRONZE VIP status - usually €6k!</span></p>
                                                 <p><span><i className='fa fa-check-circle'></i> 1.45% send money fee</span></p>
@@ -82,11 +82,11 @@ const Index = () => {
                                     </div>
                                     <div className="message-body">
                                         <div className='columns'>
-                                            <div className='column is-4' style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-around' }}>
+                                            <div className='column is-5' style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-around' }}>
                                                 <figure>
                                                     <img src='/images/neteller-BRONZE-pro-large.png' alt='neteller BRONZE pro vip upgrade' style={{ maxHeight: '150px' }}/>
                                                 </figure>
-                                                <a href='http://wlneteller.adsrv.eacdn.com/C.ashx?btag=a_75417b_1c_&affid=53&siteid=75417&adid=1&c=&aid=521' className='button is-medium is-dark'><span>Get BRONZE VIP <i className='fa fa-check-circle' style={{ color: 'white' }}></i></span>
+                                                <a href='http://wlneteller.adsrv.eacdn.com/C.ashx?btag=a_75417b_1c_&affid=53&siteid=75417&adid=1&c=&aid=521' className='button is-medium is-dark'><span>BECOME NETELLER VIP <i className='fa fa-check-circle' style={{ color: 'white' }}></i></span>
                                                 </a>
                                                 <br/>
                                                 <br/>
@@ -131,7 +131,7 @@ const Index = () => {
                                             <li>GOLD VIP for <strong>$50,000</strong></li>
                                         </ol>
                                         <p>You get reduced VIP levels ALONG with all the other benefits of VIP memebership.</p>
-                                        <a href='http://wlneteller.adsrv.eacdn.com/C.ashx?btag=a_75417b_1c_&affid=53&siteid=75417&adid=1&c=&aid=521' className='button is-medium is-dark'><span>GET BRONZE VIP <i className='fa fa-check-circle' style={{ color: 'white' }}></i></span></a>
+                                        <a href='http://wlneteller.adsrv.eacdn.com/C.ashx?btag=a_75417b_1c_&affid=53&siteid=75417&adid=1&c=&aid=521' className='button is-medium is-dark'><span>BECOME NETELLER VIP <i className='fa fa-check-circle' style={{ color: 'white' }}></i></span></a>
                                     </div>
                                 </article>
                                 <article className='message is-info'>
@@ -139,10 +139,12 @@ const Index = () => {
                                         <p>Follow us to stay updated</p>                                            
                                     </div>
                                     <div className="message-body" style={{ textAlign: 'left' }}>
-                                       <div >
+                                       <div>
                                             <a href='https://www.facebook.com/richerplayers'><img src="/images/facebook.svg" style={{ maxWidth: '50px' }} /></a>&nbsp; &nbsp; 
                                             <a href="tel:+447768688886"><img src="/images/whatsapp.svg" style={{ maxWidth: '50px' }} /></a>&nbsp; &nbsp; 
-                                            <a href='https://www.instagram.com/richerplayers'><img src="/images/instagram.svg" style={{ maxWidth: '50px' }} /></a>
+                                            <a href='https://www.instagram.com/richerplayers'><img src="/images/instagram.svg" style={{ maxWidth: '50px' }} /></a>&nbsp; &nbsp; 
+                                            <a href="https://www.ewalletbooster.com"><img src="/images/ewalletbooster-logo.svg" alt="ewalletbooster VIP upgrades" style={{ maxWidth: '150px' }}/></a>
+                                            
                                        </div>
                                     </div>
                                 </article>
