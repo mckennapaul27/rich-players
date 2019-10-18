@@ -59,7 +59,7 @@ const Index = () => {
                                                 </a>
                                                 <br/>
                                                 <br/>
-                                                <p className='content is-small'>Please note that VIP upgrade to BRONZE is for new Skrill customers who register via the button above</p>
+                                                <p><strong>Please note that VIP upgrade to BRONZE is for new SKRILL customers who register via the button above</strong></p>
                                             </div> 
                                             <div className='column' >
                                                 <h3>Exclusive RichPlayers / Skrill Partnership Deal</h3>
@@ -90,7 +90,7 @@ const Index = () => {
                                                 </a>
                                                 <br/>
                                                 <br/>
-                                                <p className='content is-small'>Please note that VIP upgrade to BRONZE is for new NETELLER customers who register via the button above</p>
+                                                <p><strong>Please note that VIP upgrade to BRONZE is for new NETELLER customers who register via the button above</strong></p>
                                             </div> 
                                             <div className='column'>
                                                 <h3>Exclusive RichPlayers / NETELLER Partnership Deal</h3>
