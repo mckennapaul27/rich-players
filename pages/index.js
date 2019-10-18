@@ -22,7 +22,7 @@ const Index = () => {
                 <Particles/>
                 <div className='hero-body'>
                     <div className='content'>
-                        <img src="/static/images/logo-transparent.png" alt="rich players logo"/>
+                        <img src="/images/logo-transparent.png" alt="rich players logo"/>
                         <h1>Exclusively for <span style={{ color: '#DAA520' }}>RichPlayers</span> customers</h1>
                         <h1>Due to our longstanding relationship with <span style={{ color: '#811e68' }}>Skrill</span> &amp; <span style={{ color: '#83ba3b' }}>NETELLER</span></h1>
                         <h1>We have negotiated an <em style={{ textDecoration: 'underline' }}>exclusive</em> deal for all new customers.</h1>
@@ -36,10 +36,10 @@ const Index = () => {
                     <div className='content'>
                         <div className='columns is-centered'>
                             <div className='column'>
-                                <img src="/static/images/skrill-logo.png" alt="" style={{ maxHeight: '50px' }}/>
+                                <img src="/images/skrill-logo.png" alt="" style={{ maxHeight: '50px' }}/>
                             </div>
                             <div className='column'>
-                                <img src="/static/images/neteller-logo.png" alt="" style={{ maxHeight: '50px' }}/>
+                                <img src="/images/neteller-logo.png" alt="" style={{ maxHeight: '50px' }}/>
                             </div>
                         </div>
 
@@ -53,10 +53,12 @@ const Index = () => {
                                         <div className='columns'>
                                             <div className='column is-4' style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-around' }}>
                                                 <figure>
-                                                    <img src='/static/images/skrill-b.png' alt='neteller BRONZE pro vip upgrade' style={{ maxHeight: '150px' }}/>
+                                                    <img src='/images/skrill-b.png' alt='neteller BRONZE pro vip upgrade' style={{ maxHeight: '150px' }}/>
                                                 </figure>
-                                                    <a href='http://wlskrill.adsrv.eacdn.com/C.ashx?btag=a_75418b_3265c_&affid=37901&siteid=75418&adid=3265&c=&aid=521' className='button is-medium is-danger'><span>Get BRONZE VIP <i className='fa fa-check-circle' style={{ color: 'white' }}></i></span>
-                                                    </a>
+                                                <a href='http://wlskrill.adsrv.eacdn.com/C.ashx?btag=a_75418b_3265c_&affid=37901&siteid=75418&adid=3265&c=&aid=521' className='button is-medium is-danger'><span>Get BRONZE VIP <i className='fa fa-check-circle' style={{ color: 'white' }}></i></span>
+                                                </a>
+                                                <br/>
+                                                <br/>
                                                 <p className='content is-small'>Please note that VIP upgrade to BRONZE is for new Skrill customers who register via the button above</p>
                                             </div> 
                                             <div className='column' >
@@ -82,10 +84,12 @@ const Index = () => {
                                         <div className='columns'>
                                             <div className='column is-4' style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-around' }}>
                                                 <figure>
-                                                    <img src='/static/images/neteller-BRONZE-pro-large.png' alt='neteller BRONZE pro vip upgrade' style={{ maxHeight: '150px' }}/>
+                                                    <img src='/images/neteller-BRONZE-pro-large.png' alt='neteller BRONZE pro vip upgrade' style={{ maxHeight: '150px' }}/>
                                                 </figure>
-                                                    <a href='http://wlneteller.adsrv.eacdn.com/C.ashx?btag=a_75417b_1c_&affid=53&siteid=75417&adid=1&c=&aid=521' className='button is-medium is-dark'><span>Get BRONZE VIP <i className='fa fa-check-circle' style={{ color: 'white' }}></i></span>
-                                                    </a>
+                                                <a href='http://wlneteller.adsrv.eacdn.com/C.ashx?btag=a_75417b_1c_&affid=53&siteid=75417&adid=1&c=&aid=521' className='button is-medium is-dark'><span>Get BRONZE VIP <i className='fa fa-check-circle' style={{ color: 'white' }}></i></span>
+                                                </a>
+                                                <br/>
+                                                <br/>
                                                 <p className='content is-small'>Please note that VIP upgrade to BRONZE is for new NETELLER customers who register via the button above</p>
                                             </div> 
                                             <div className='column'>
@@ -105,7 +109,7 @@ const Index = () => {
                         </div>
                         <div className='columns'>
                             <div className='column is-6'>
-                                <img src="/static/images/vip-table.png" alt=""/>
+                                <img src="/images/vip-table.png" alt=""/>
                             </div>
                             <div className='column'>
                                 <article className='message is-dark'>
@@ -127,7 +131,7 @@ const Index = () => {
                                             <li>GOLD VIP for <strong>$50,000</strong></li>
                                         </ol>
                                         <p>You get reduced VIP levels ALONG with all the other benefits of VIP memebership.</p>
-                                        <a href='http://wlneteller.adsrv.eacdn.com/C.ashx?btag=a_75417b_1c_&affid=53&siteid=75417&adid=1&c=&aid=521' className='button is-medium is-dark'><span>GET BRONZE PRO UPGRADE <i className='fa fa-check-circle' style={{ color: 'white' }}></i></span></a>
+                                        <a href='http://wlneteller.adsrv.eacdn.com/C.ashx?btag=a_75417b_1c_&affid=53&siteid=75417&adid=1&c=&aid=521' className='button is-medium is-dark'><span>GET BRONZE VIP <i className='fa fa-check-circle' style={{ color: 'white' }}></i></span></a>
                                     </div>
                                 </article>
                                 <article className='message is-info'>
@@ -136,9 +140,9 @@ const Index = () => {
                                     </div>
                                     <div className="message-body" style={{ textAlign: 'left' }}>
                                        <div >
-                                            <a href='https://www.facebook.com/richerplayers'><img src="/static/images/facebook.svg" style={{ maxWidth: '50px' }} /></a>&nbsp; &nbsp; 
-                                            <a href="tel:+447768688886"><img src="/static/images/whatsapp.svg" style={{ maxWidth: '50px' }} /></a>&nbsp; &nbsp; 
-                                            <a href='https://www.instagram.com/richerplayers'><img src="/static/images/instagram.svg" style={{ maxWidth: '50px' }} /></a>
+                                            <a href='https://www.facebook.com/richerplayers'><img src="/images/facebook.svg" style={{ maxWidth: '50px' }} /></a>&nbsp; &nbsp; 
+                                            <a href="tel:+447768688886"><img src="/images/whatsapp.svg" style={{ maxWidth: '50px' }} /></a>&nbsp; &nbsp; 
+                                            <a href='https://www.instagram.com/richerplayers'><img src="/images/instagram.svg" style={{ maxWidth: '50px' }} /></a>
                                        </div>
                                     </div>
                                 </article>
