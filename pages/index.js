@@ -142,9 +142,7 @@ const Index = () => {
                                        <div>
                                             <a href='https://www.facebook.com/richerplayers'><img src="/images/facebook.svg" style={{ maxWidth: '50px' }} /></a>&nbsp; &nbsp; 
                                             <a href="tel:+447768688886"><img src="/images/whatsapp.svg" style={{ maxWidth: '50px' }} /></a>&nbsp; &nbsp; 
-                                            <a href='https://www.instagram.com/richerplayers'><img src="/images/instagram.svg" style={{ maxWidth: '50px' }} /></a>&nbsp; &nbsp; 
-                                            <a href="https://www.ewalletbooster.com"><img src="/images/ewalletbooster-logo.svg" alt="ewalletbooster VIP upgrades" style={{ maxWidth: '150px' }}/></a>
-                                            
+                                            <a href='https://www.instagram.com/richerplayers'><img src="/images/instagram.svg" style={{ maxWidth: '50px' }} /></a>
                                        </div>
                                     </div>
                                 </article>
@@ -156,6 +154,7 @@ const Index = () => {
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" display='block'>
                     <path fill="#000" fillOpacity="1" d="M0,192L60,186.7C120,181,240,171,360,160C480,149,600,139,720,154.7C840,171,960,213,1080,202.7C1200,192,1320,128,1380,96L1440,64L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path>
                 </svg>
+                <a href="https://www.ewalletbooster.com" style={{ bottom: 0, color: 'white', backgroundColor: '#000', padding: '1rem' }}><img src="/images/ewalletbooster-logo.svg" alt="ewalletbooster VIP upgrades" style={{ maxWidth: '150px' }}/></a>
             </div>
             <style jsx>{`
                 .particle-container {
