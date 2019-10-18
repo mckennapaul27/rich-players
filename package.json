@@ -4,8 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build-css": "node-sass-chokidar / -o /",
-    "watch-css": "npm run build-css && node-sass-chokidar / -o / --watch --recursive",
     "dev": "nodemon server.js",
     "build": "next build",
     "start": "node server.js -p $PORT",
